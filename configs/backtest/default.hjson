@@ -1,0 +1,16 @@
+{
+  # futures or spot
+  market_type: spot
+
+  user: djemphol
+
+  symbol: SOLUSDT
+  latency_simulation_ms: 1000
+
+  starting_balance: 1000.0
+
+  periodic_gain_n_days: 7.0
+
+  start_date: 2021-01-01
+  end_date: 2021-10-04
+}
